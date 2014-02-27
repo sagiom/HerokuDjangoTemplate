@@ -1,5 +1,5 @@
 #encoding: utf-8
-#
+# just for testing git function
 from django.conf.urls import patterns, include, url
 
 from django.contrib import admin
